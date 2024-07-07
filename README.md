@@ -1,0 +1,36 @@
+DSA in C++ University Semester Labs
+Welcome to the repository for my Data Structures and Algorithms (DSA) labs in C++ from my university semester. This repository contains all the lab exercises and projects I've worked on during the course. Each lab is designed to strengthen my understanding of various data structures and algorithms and their implementation in C++.
+
+Table of Contents
+Introduction
+Lab Exercises
+Installation
+Usage
+Contributing
+License
+Contact
+Introduction
+This repository contains a collection of lab exercises for the Data Structures and Algorithms course, part of my Software Engineering curriculum. The labs cover a range of topics including arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, and more.
+
+Lab Exercises
+Each lab is organized in its own directory and contains the following:
+
+Source code files (.cpp)
+Header files (.h)
+Lab instructions and problem statements
+Sample input/output files (if applicable)
+List of Labs
+Lab 1: Introduction to Arrays
+Lab 2: Linked Lists
+Lab 3: Stacks and Queues
+Lab 4: Trees
+Lab 5: Graphs
+Lab 6: Sorting Algorithms
+Lab 7: Advanced Data Structures
+Lab 8: Final Project
+
+This repository serves as a comprehensive collection of my work and progress in the Data Structures and Algorithms course. Each lab exercise has provided valuable hands-on experience with implementing and understanding core data structures and algorithms in C++. By working through these labs, I've gained practical skills and deeper insights that are essential for any software engineer.
+
+I hope this repository can also be a useful resource for fellow students and anyone interested in learning about data structures and algorithms. Contributions and suggestions for improvements are always welcome.
+
+Thank you for visiting!
